@@ -1,7 +1,8 @@
 {
 	"build":{
 		"buildShell":"build.sh",
-		"dockerfile":"Dockerfile"
+		"dockerfile":"Dockerfile",
+		"pomfile":"pom.xml"
 	},
 	"version":"v1.0.0",
 	"deployment":{
